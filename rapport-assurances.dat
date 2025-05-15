@@ -1,3 +1,3 @@
-Code    Contrat       Produit       Client                                 Statut  Debut      Fin        Montant
-00000000CAGTNA_AH      IRP AUTO SantelAGTNA                                    ut  Debu01 01 0601 01 3000  8135,60€
-00000000CAH_BASE       IRP AUTO SantelTNS Actif IJ                             ut  Debu01 01 0601 01 3000  8539,40€
+Code      Contrat        Produit        Client                                    Statut   Debut      Fin         Montant
+03009800  AGTNA_AH       IRP AUTO Sante AGTNA                                     Suspendu 2006/01/01 3000/01/01  8135,60€
+07000000  AH_BASE        IRP AUTO Sante TNS Actif IJ                              Actif    2006/01/01 3000/01/01  8539,40€
